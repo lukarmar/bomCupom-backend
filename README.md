@@ -1,24 +1,17 @@
-# README
+<h1 align="center">
+  <img alt="bomcupom" title="bomcupom" src="https://www.bomcupom.com/wp-content/themes/bomcupom-novo/assets/images/bomcupom-marca.png" width="400px" />
+</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+<p>Backend developed as an api in ruby on rails to be consumed by an application in ReactJS where there will be registration of new users on a landing page..</p>
+<p>:elephant: The postgres database was used for this application</p>
 
-* Ruby version
+Code editor used:
+-  [Vscode](https://code.visualstudio.com/)
 
-* System dependencies
+## :memo: License
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
-* Configuration
+---
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Made by me. By Luka Rocha :wave: [Linkedin](https://www.linkedin.com/in/luka-martins/)
